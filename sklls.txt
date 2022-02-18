@@ -1,0 +1,6 @@
+Vadim_Ksendzov QA Courses
+
+1) Basic theory: testing, bug reports, documentation, etc.
+2) Server: client-server, responses, methods of requests, etc.
+3) Other skills: mobile testing, Postman, Git, Jmeter, Python, etc.
+
