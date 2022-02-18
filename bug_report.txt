@@ -1,1 +1,26 @@
+Defect ID : B067
 
+Reporter name : Alina
+
+Defect reporter date : February 17, 2022
+
+Who detected : Alina
+
+Project name : "Project X"
+
+Version release : 24
+
+Defect : The creator of a group conversation cannot rename it
+
+Priority : Medium
+
+Description: 
+	Step1: Login in
+	Step2: Open chat dialog
+	Step3: Click on the settings' button
+	Step4: Add any user to a group conversation
+	Step5: Try to rename this group
+  
+	Actual result: Rename is disabled
+  
+	Desired result: Rename is enabled.
